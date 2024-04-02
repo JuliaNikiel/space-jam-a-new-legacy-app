@@ -1,3 +1,6 @@
 {
- "recommendations": ["vsls-contrib.codetour"]
+"recommendations": [
+    "vsls-contrib.codetour",
+    "ms-azuretools.vscode-azurestaticwebapps"
+]
 }
